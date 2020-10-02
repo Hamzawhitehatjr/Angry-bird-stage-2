@@ -1,2 +1,2 @@
-# Angry-bird-stage-2
-great game 10/10000
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
